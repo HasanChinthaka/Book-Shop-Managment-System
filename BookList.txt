@@ -1,0 +1,21 @@
+    ISBN	 |      Book Name	      			      |     Author     		|    Price (Rs.)    |  Qty  |    Avalablility
+ 9781430218449	   Beginning Python Visualization [E]			Shai Vaingast			4000.00		10	  Stock In
+ 9781847193353	   Learning Website Development with Django [E]		Ayman Hourieh			2500.00		08	  Stock In
+ 15920007997	   Game Programmin with Python,Lua, and Ruby [E]	Tom Gutschmudt			3800.00		02	  Stock In
+ 9780470608210     Photoshop CS5 ALL-IN-ONE FOR DUMmIES	[E]		Barbara Obermeier		5000.00		01	  Stock In
+ 1430206365        Foundations of Agile Python Development [E]		Jeff Younker			4800.00		00	  Stock Out
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 9789551262402	   SH- Surupi Nalagana [S] [T]				Chandana Mendis			450.00		12	  Stock In 	
+ 9789551262181	   SH- BaskavilRuduru Balla [S] [T]			Chandana Mendis			325.00		18	  Stock In
+ 9789551262358	   SH- Wedihada [S] [T]					Chandana Mendis			425.00		00	  Stock Out
+ 9559777602	   SH- Lohitha Pareekshanaya [S] [T]			Chandana Mendis			295.00		06	  Stock In
+ 9559777610	   SH- Oben Samuganimi [S] [T]				Chandana Mendis			275.00		08	  Stock In
+ 9559777645	   SH- Pudgalikai Rahasigathai [S] [T]			Chandana Mendis			195.00		07	  Stock In
+-------------------------------------------------------------------------------------------------------------------------------------------------
+ 9559000979511	   Sath Sumithuro Saha Athurahan Wu Yuwathiya  [S] [T] 	Sudath Rohana			150.00		12	  Stock In
+ 2240680000140	   Bihisunu Wana Meda  [S] [T]				Krishantha Thilakarathna	140.00		00	  Stock Out
+ 9789552903021	   Ridi Makuluwage Abhiraha  [S] [T]			Sandya Kumari Kulathunga 	160.00		16	  Stock In
+ 9789550445038	   Sath Sumithuro Saha Jenaralge Wira Padakkam  [S] [T]	Thathsarani Satharasignhe 	150.00		30	  Stock In
+-------------------------------------------------------------------------------------------------------------------------------------------------
+   <Book Name> [E] - Language of Book Englis		<Book Name> [S] - Language of Book Sinhala		<Book Name> [T] - Translate Book
+					SH - Sherlock Homes
